@@ -1,5 +1,5 @@
 # Hi, I'm Ayush Pandey! 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&width=500&lines=Frontend+Developer;UI%2FUX+Designer;Building+and+learning+to+create+reliable+Web+Apps;Thriving+in+Hackathons" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=25&pause=1000&color=36BCF7&width=520&lines=Frontend%20Developer;UI%2FUX%20Designer;Building%20and%20learning%20to%20create%20reliable%20Web%20Apps;Thriving%20in%20Hackathons" alt="Typing SVG" />
 
 - Frontend Developer | UI/UX Enthusiast | CSE Student at Chandigarh University (CU'29)
 
