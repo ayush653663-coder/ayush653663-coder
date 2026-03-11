@@ -16,11 +16,9 @@
 **Tools:** <p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p> 
 
 ## 🏆 Hackathon Participation
--  Upcoming Targets: Gearing up for HackXtreme 2026 (Microsoft Gurugram) and AWS Hackathon (IIT Kanpur) with my team.
-- Past Experience: Participated in Hack with UP (Gained hands-on experience building under pressure).
-- Current Focus: Mastering JavaScript with building real world projects & Designing Better User Interface with Figma and integrating AI features for our hackathon prototypes.
-
-
+- Upcoming Goals: Preparing with my team for HackXtreme 2026 (Microsoft Gurugram) and AWS Hackathon (IIT Kanpur).
+- Experience: Participated in Hack with UP, gaining hands-on experience building projects under pressure.
+- Current Focus: Improving my JavaScript skills by building real-world projects, designing better user interfaces in Figma, and integrating AI features into our hackathon prototypes.
 ## 📫 Connect with Me
 <a href="https://www.linkedin.com/in/ayush-pandey-673073220/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
