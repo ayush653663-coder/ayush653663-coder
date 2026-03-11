@@ -15,7 +15,7 @@
 **Design:** Figma, Canva  
 **Tools:** <p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p> 
 
-## 🏆 Hackathon Journey
+## 🏆 Hackathon Participation
 -  Upcoming Targets: Gearing up for HackXtreme 2026 (Microsoft Gurugram) and AWS Hackathon (IIT Kanpur) with my team.
 - Past Experience: Participated in Hack with UP (Gained hands-on experience building under pressure).
 - Current Focus: Mastering JavaScript with building real world projects & Designing Better User Interface with Figma and integrating AI features for our hackathon prototypes.
