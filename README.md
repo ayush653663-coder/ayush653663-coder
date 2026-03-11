@@ -3,7 +3,7 @@
 
 - Frontend Developer | UI/UX Enthusiast | CSE Student at Chandigarh University (CU'29)
 
-## 🔭 What I'm doing right now:
+## 🔭  What I'm Exploring:
 - 🎓 I’m currently studying **Computer Science & Engineering at Chandigarh University**
 - 💻 I build **Frontend Projects using HTML, CSS, JavaScript**
 - 🎨 Passionate about **UI/UX Design and Figma**
@@ -13,12 +13,12 @@
 ## 🛠 Tech Stack (Learning & Building)
 **Frontend:** HTML, CSS, JavaScript  
 **Design:** Figma, Canva  
-**Tools:** Git, GitHub, VS Code  
+**Tools:** <p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p> 
 
 ## 🏆 Hackathon Journey
 -  Upcoming Targets: Gearing up for HackXtreme 2026 (Microsoft Gurugram) and AWS Hackathon (IIT Kanpur) with my team.
 - Past Experience: Participated in Hack with UP (Gained hands-on experience building under pressure).
-- Current Focus: Mastering JavaScript with building real wworld projects & Designing Better User Interface with Figma and integrating AI features for our hackathon prototypes.
+- Current Focus: Mastering JavaScript with building real world projects & Designing Better User Interface with Figma and integrating AI features for our hackathon prototypes.
 
 
 ## 📫 Connect with Me
