@@ -16,7 +16,7 @@
 **Tools:** <p><img src="https://skillicons.dev/icons?i=git,github,vscode" /></p> 
 
 ## 🏆 Hackathon Participation
-- Upcoming Goals: Preparing with my team for HackXtreme 2026 (Microsoft Gurugram) and AWS Hackathon (IIT Kanpur).
+- Upcoming Goals: Preparing with my team for HackXtreme 2026 (Microsoft Gurugram).
 - Experience: Participated in Hack with UP, gaining hands-on experience building projects under pressure.
 - Current Focus: Improving my JavaScript skills by building real-world projects, designing better user interfaces in Figma, and integrating AI features into our hackathon prototypes.
 ## 📫 Connect with Me
