@@ -1,7 +1,7 @@
 # Hi, I'm Ayush Pandey! 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&size=25&pause=1000&color=36BCF7&width=600&lines=Fullstack%20Developer%3BUI%2FUX%20Designer%3BTurning%20Ideas%20Into%20UI%20%20Web%20Apps%3BThriving%20in%20Hackathons" alt="Typing SVG" />
 
-- Full Stack Developer | UI/UX Enthusiast | CSE Student at Chandigarh University (CU'29)
+- Full StackDeveloper | UI/UX Enthusiast | CSE Student at Chandigarh University (CU'29)
 
 ## 🔭  What I'm Exploring:
 - 🎓 I’m currently studying **Computer Science & Engineering at Chandigarh University**
